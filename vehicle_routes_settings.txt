@@ -1,0 +1,107 @@
+route_id,agency_id,route_short_name,route_type
+# Ferry
+1U,koszalin,1U,4
+1M,koszalin,1M,4
+# Tram
+T2,grudziadz,T2,0
+T,wlt,T,0
+# Trolleybus
+21,gdynia,21,11
+22,gdynia,22,11
+23,gdynia,23,11
+24,gdynia,24,11
+25,gdynia,25,11
+26,gdynia,26,11
+27,gdynia,27,11
+28,gdynia,28,11
+29,gdynia,29,11
+30,gdynia,30,11
+31,gdynia,31,11
+32,gdynia,32,11
+33,gdynia,33,11
+34,gdynia,34,11
+181,gdynia,181,11
+326,gdynia,326,11
+710,gdynia,710,11
+723,gdynia,723,11
+# Train
+SKA1,kml,SKA1,2
+SKA2,kml,SKA2,2
+SKA3,kml,SKA3,2
+K7P JASKÓŁKA,kml,K7P JASKÓŁKA,2
+K71,kml,K71,2
+K71P WŁÓCZYKIJ,kml,K71P WŁÓCZYKIJ,2
+K5P LUXTORPEDA,kml,K5P LUXTORPEDA,2
+K63,kml,K63,2
+K7P DUNAJEC,kml,K7P DUNAJEC,2
+M7 BELIANSKY EXPRESS,kml,M7 BELIANSKY EXPRESS,2
+K71P,kml,K71P,2
+SKA3P MOŚCICKI,kml,SKA3P MOŚCICKI,2
+SKA3P JASKÓŁKA,kml,SKA3P JASKÓŁKA,2
+
+D90,kd,D90,2
+D83/D7,kd,D83/D72
+D2,kd,D2,2
+D14,kd,D14,2
+D1,kd,D1,2
+D62,kd,D62,2
+D4,kd,D4,2
+D8,kd,D8,2
+D10,kd,D10,2
+D92,kd,D92,2
+D70,kd,D70,2
+D8/D4,kd,D8/D4,2
+D31,kd,D31,2
+D64,kd,D64,2
+D91,kd,D91,2
+D11,kd,D11,2
+D9,kd,D9,2
+D61,kd,D61,2
+D1/D62,kd,D1/D62,2
+D7/D83,kd,D7/D83,2
+D83,kd,D83,2
+KD Premium Nadmorski,kd,KD Premium Nadmorski,2
+D81,kd,D81,2
+D13,kd,D13,2
+D4/D8,kd,D4/D8,2
+D40,kd,D40,2
+D96,kd,D96,2
+D91/D64,kd,D91/D64,2
+D3,kd,D3,2
+D6,kd,D6,2
+D6/D96,kd,D6/D96,2
+D12,kd,D12,2
+D7,kd,D7,2
+D96/D64/D40,kd,D96/D64/D40,2
+D60,kd,D60,2
+D80,kd,D80,2
+D80/D7,kd,D80/D7,2
+D40/D64/D96,kd,D40/D64/D96,2
+D64/D91,kd,D64/D91,2
+D40/D91,kd,D40/D91,2
+D90/D91,kd,D90/D91,2
+D6/D62,kd,D6/D62,2
+D91/D90,kd,D91/D90,2
+D8/D4/D91,kd,D8/D4/D91,2
+D91/D40,kd,D91/D40,2
+D20,kd,D20,2
+D7/D80,kd,D7/D80,2
+D66,kd,D66,2
+D3/D9,kd,D3/D9,2
+D40/D64,kd,D40/D64,2
+D9/D3,kd,D9/D3,2
+D62/D6,kd,D62/D6,2
+D67,kd,D67,2
+D91/D4,kd,D91/D4,2
+
+#Colour
+route_id,colour
+kml,FFC20E
+kd,F8F8F8
+kolejemalopolskie,425277
+zkkm,0462A2
+jaworzno,21759B
+olkusz,F5ED00
+gdynia,0051DF
+koszalin,D9DB4B
+oswiecim,D8BC2B
